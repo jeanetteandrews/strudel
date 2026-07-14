@@ -1,26 +1,12 @@
 {
   "_base": "https://raw.githubusercontent.com/jeanetteandrews/strudel/master/",
   "bd": [
-    "bd/base1.wav",
-    "bd/base2.wav",
-    "bd/base3.wav",
-    "bd/base4.wav",
-    "bd/base5.wav",
-    "bd/base6.wav"
+    "bd/kick.wav"
   ],
   "hh": [
-    "hh/hihat1.wav",
-    "hh/hihat2.wav",
-    "hh/hihat3.wav",
-    "hh/hihat4.wav",
-    "hh/hihat5.wav",
-    "hh/hihat6.wav"
+    "hh/hihat.wav"
   ],
   "sd": [
-    "sd/snare1.wav",
-    "sd/snare2.wav",
-    "sd/snare3.wav",
-    "sd/snare4.wav",
-    "sd/snare5.wav"
+    "sd/snare.wav"
   ]
 }
