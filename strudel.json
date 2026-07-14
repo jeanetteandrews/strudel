@@ -1,12 +1,13 @@
 {
   "_base": "https://raw.githubusercontent.com/jeanetteandrews/strudel/master/",
-  "kick": [
+  "bd": [
     "bd/kick.wav"
   ],
-  "hihat": [
-    "hh/hihat.wav"
+  "hh": [
+    "hh/hihat1.wav",
+    "hh/hihat2.wav"
   ],
-  "snare": [
+  "sd": [
     "sd/snare.wav"
   ]
 }
