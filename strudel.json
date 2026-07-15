@@ -10,7 +10,7 @@
   "sd": [
     "sd/snare.wav"
   ],
-  "wt": [
-    "wt/wt.wav"
-  ]
+  "wt": {
+    "a1": ["wt/wt.wav"]
+  }
 }
