@@ -1,7 +1,8 @@
 {
   "_base": "https://raw.githubusercontent.com/jeanetteandrews/strudel/main/",
   "bd": [
-    "bd/kick.wav"
+    "bd/kick.wav",
+    "bd/kick2.wav"
   ],
   "hh": [
     "hh/hihat1.wav",
@@ -9,6 +10,20 @@
   ],
   "sd": [
     "sd/snare.wav"
+  ],
+  "cr": [
+    "cr/crash1.wav",
+    "cr/crash2.wav",
+    "cr/crash3.wav",
+    "cr/crash4.wav",
+    "cr/crash5.wav",
+    "cr/crash6.wav",
+    "cr/crash7.wav",
+    "cr/crash8.wav",
+    "cr/crash9.wav",
+    "cr/crash10.wav",
+    "cr/crash11.wav",
+    "cr/crash12.wav"
   ],
   "wt": {
     "a2": ["wt/wt.wav"]
